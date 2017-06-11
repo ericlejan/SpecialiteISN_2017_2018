@@ -1,6 +1,6 @@
 # SpecialiteISN_2017_2018
 
-Bonjour, 
+# Bonjour, 
 
 Ce dépôt est créé pour le groupe de Spécialité ISN du Lycée Camille Saint Saëns à Rouen.
 
@@ -12,11 +12,11 @@ Ce dépôt devrait rejoindre l’environnement du PAI « Meteo et Climat : Trem
 
 dont le dépôt est consultable ici. 
 
-https://github.com/g-vidal/CahierDeProgrammes
+* https://github.com/g-vidal/CahierDeProgrammes *
 
 Il est mis en place suite aux travaux de deux de nos élèves de 2016-2017 qui ont développé un jeu (DementiaRL) comme projet final du Bac.
 
-https://github.com/Edern76/DementiaRL
+* https://github.com/Edern76/DementiaRL *
 
 L’intérêt de l’outil pour le suivi de la classe va être testé.
 
