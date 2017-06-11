@@ -20,16 +20,16 @@ Il est mis en place suite aux travaux de deux de nos élèves de 2016-2017 qui o
 
 L’intérêt de l’outil pour le suivi de la classe va être testé.
 
-Les branches de ce Dépôt seront celles des enseignants et des élèves. Si nous parvenons à obtenir le financement par la Région Normandie nos élèes disposeront
-de Rapsi3 équipée d'un micro SD sur laquelle l'image produite dans le cadre du projet Tremplin aura été installée.
+Les branches de ce Dépôt seront celles des enseignants et des élèves. Si nous parvenons à obtenir le financement par la Région Normandie nos élèes disposeront de Rapsi3 équipée d'un micro SD sur laquelle l'image produite dans le cadre du projet Tremplin aura été installée.
 
-Les cahiers de programmes mis en place pour les élèves seront des Cahiers Mixtes :
+* http://mediaserv.climatetmeteo.fr/images/RaspBerry/DebianStretchPi3/
+
+Les cahiers de programmes au format ipynb produit avec jupyter ou jupyterhub mis en place pour les élèves seront des Cahiers Mixtes :
 
 Certains exploiteront directement les capteurs et autres outils pilotables grâce au système intallé sur la RASPI3
 Ces cahiers rejoindront le projet Tremplin.
 
-Certains ne seront que des cahiers d'exercices réalisés en classe dont un par branche devrait être à l'origine de la production du
-fichier accompagnant le projet final de chaque élève.
-Certains de ces cahiers rejoindront le projet tremplin en fonction de leur validation par les responsables du projet.
+Certains ne seront que des cahiers d'exercices réalisés en classe dont un par branche devrait être à l'origine de la production du fichier accompagnant le projet final de chaque élève.
+Certains de ces cahiers rejoindront le projet Tremplin en fonction de leur validation par les responsables du projet.
 
 Eric Le Jan. 
