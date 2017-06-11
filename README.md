@@ -18,13 +18,17 @@ Il est mis en place suite aux travaux de deux de nos élèves de 2016-2017 qui o
 
 * https://github.com/Edern76/DementiaRL *
 
-L’intérêt de l’outil pour le suivi de la classe va être testé.
+L’intérêt de l’outil pour le suivi de la classe va être testé. C'est un des points lié au projet Tremplin.
 
 Les branches de ce Dépôt seront celles des enseignants et des élèves. Si nous parvenons à obtenir le financement par la Région Normandie nos élèes disposeront de Rapsi3 équipée d'un micro SD sur laquelle l'image produite dans le cadre du projet Tremplin aura été installée.
 
 * http://mediaserv.climatetmeteo.fr/images/RaspBerry/DebianStretchPi3/
 
-Les cahiers de programmes au format ipynb produit avec jupyter ou jupyterhub mis en place pour les élèves seront des Cahiers Mixtes :
+Cette image est maintenu par Gérard Vidal dans le cadre du blog du projet tremplin dont les articles sont consultables ici :
+
+* http://blog.climatetmeteo.fr/GerardVidal/Raspberry%20Pi23Stretch_install.html
+
+Les cahiers de programmes au format ipynb produit avec jupyter/jupyterhub sur les raspi des Eleves ou sur le Serveur de l'établissement mis en place pour les élèves seront des Cahiers Mixtes :
 
 Certains exploiteront directement les capteurs et autres outils pilotables grâce au système intallé sur la RASPI3
 Ces cahiers rejoindront le projet Tremplin.
