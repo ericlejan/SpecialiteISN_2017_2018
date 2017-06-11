@@ -1,4 +1,4 @@
-# SpecialiteISN_2017_2018
+# SpecialiteISN_2017_2018 LEG C Saint Saëns Rouen
 
 # Bonjour, 
 
@@ -18,9 +18,9 @@ Il est mis en place suite aux travaux de deux de nos élèves de 2016-2017 qui o
 
 * https://github.com/Edern76/DementiaRL *
 
-L’intérêt de l’outil pour le suivi de la classe va être testé. C'est un des points lié au projet Tremplin.
+L’intérêt de l’outil pour le suivi de la classe va être testé. C'est un des points liés au projet Tremplin.
 
-Les branches de ce Dépôt seront celles des enseignants et des élèves. Si nous parvenons à obtenir le financement par la Région Normandie nos élèes disposeront de Rapsi3 équipée d'un micro SD sur laquelle l'image produite dans le cadre du projet Tremplin aura été installée.
+Les branches de ce Dépôt seront celles des enseignants et des élèves. Si nous parvenons à obtenir le financement par la Région Normandie nos élèes disposeront de Rapsi3 équipée d'un micro SD sur laquelle l'image produite dans le cadre du projet Tremplin aura été installée. Les enseignants se sont équipés de cet Outil.
 
 * http://mediaserv.climatetmeteo.fr/images/RaspBerry/DebianStretchPi3/
 
